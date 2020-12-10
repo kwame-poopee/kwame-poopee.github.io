@@ -1,0 +1,51 @@
+header{justify-content: space-around;
+    text-align: center;
+    
+}
+h3{
+    text-shadow: 20px;
+}
+body{
+    text-align: centre;
+    background-color: white;
+    color: black;
+    opacity: 0.9;
+    justify-content: space-around
+    
+}
+.personal_pic{
+    border-radius: 50%;
+    float: right;
+}
+ul, ol {
+    list-style-type: square;
+}
+.education, .skills, .aboutme, .worklife{
+    background-color: dodgerblue;
+    border: 2px solid white;
+    border-style: outset;
+    border-width: 5px;
+    border-radius: 10px;
+    margin-right: 150px;
+    margin-left: 80px;
+    padding-top: 50px;
+  padding-right: 30px;
+  padding-bottom: 50px;
+  padding-left: 80px;
+  word-wrap: suppress 1.5%;
+  text-shadow: 20px;
+    
+}
+
+}
+p{
+    font-size: medium;
+    font-style: normal;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    
+}
+
+
+
+
